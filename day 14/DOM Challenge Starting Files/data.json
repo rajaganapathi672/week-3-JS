@@ -1,0 +1,21 @@
+{
+   "chicken": {
+      "name": "Chicken",
+      "description": "A delicious source of protein.",
+      "price": 5.99,
+      "category": "meat"
+   },
+   "beef": {
+      "name": "Beef",
+      "description": "Rich in iron and flavor.",
+      "price": 8.99,
+      "category": "meat"
+   },
+   "salmon": {
+      "name": "Salmon",
+      "description": "A healthy fatty fish.",
+      "price": 12.99,
+      "category": "fish"
+      
+   }
+}
